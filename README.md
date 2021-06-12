@@ -11,7 +11,7 @@
 **（1）入门**
 
  - **学习**：菜鸟教程，C语言中文网等
- - **练习**：https://www.codewars.com/kata/search/cpp，leetcode 
+ - **练习**：https://www.codewars.com/kata/search/cpp  https://leetcode-cn.com/ 
  - 《Accelerated C++》->《C++ Primer》->《The C++ Programming Language》
  - **查阅**：cppreference，cplusplus，isocpp
  
